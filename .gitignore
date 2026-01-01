@@ -1,0 +1,8 @@
+/vendor/
+composer.lock
+.DS_Store
+
+# Local secrets (DIRECTSAZ_API_KEY, DIRECTSAZ_WEBHOOK_TOKEN)
+.env
+.env.*
+!.env.example
